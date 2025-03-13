@@ -1,2 +1,7 @@
 pip install pandas pyarrow
 pip install bing-image-downloader
+pip install pillow
+pip install rembg pillow numpy
+pip install onnxruntime-gpu
+pip install numpy==2.1
+
